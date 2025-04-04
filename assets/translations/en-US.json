@@ -1,0 +1,13 @@
+{
+    "timer-tab": "Timer",
+    "setting-tab": "Settings",
+    "stopwatch-title": "Stopwatch",
+    "timer-title": "Timer",
+    "time-hours": "h",
+    "time-minutes": "m",
+    "time-seconds": "s",
+    "timer-start": "Start",
+    "timer-pause": "Pause",
+    "timer-reset": "Reset",
+    "setting-language": "Choose language"
+}
